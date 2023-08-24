@@ -29,6 +29,7 @@
             <li><a href="#">Templados</a></li>
             <li><a href="#">Fuentes</a></li>
             <li><a href="#">Cargadores</a></li>
+             <li><a href="#">Telefonia</a></li>
           </ul>
         </li>
       </ul>
